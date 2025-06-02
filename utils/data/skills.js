@@ -1,25 +1,78 @@
 export const skillsData = [
+  // Programming Languages
+  'Python',
+  'Java',
+  'C++',
+  'JavaScript',
+  'SQL',
   'HTML',
   'CSS',
-  'Javascript',
-  'Typescript',
-  'React',
-  'Next JS',
-  'Tailwind',
-  'MongoDB',
-  'MySQL',
-  'PostgreSQL',
-  'Git',
-  'AWS',
-  'Bootstrap',
+  'Golang',
+
+  // Software Tools
+  'Postman',
   'Docker',
-  'Go',
-  'Figma',
-  'Firebase',
-  'MaterialUI',
-  'Nginx',
-  'Strapi'
-]
+  'Jenkins',
+  'Axure RP',
+  'New Relic',
+  'Android Studio',
+  'ClickUp',
+  'Apache Kong',
+  'Eclipse',
+  'Anaconda',
+  'Jira',
+  'Tableau',
+  'Power BI',
+  'Selenium',
+  'Git',
+  'NGINX',
+  'RabbitMQ',
+  'Citrix',
+  'VMWare',
+
+  // Frameworks & Libraries
+  'SpringBoot',
+  'Angular',
+  'Bootstrap',
+  'ElasticSearch',
+  'Django',
+  'Hadoop',
+  'Vue',
+  'Apache Kafka',
+  'Apache Flink',
+  'Express.js',
+  'Redis',
+  'Apache Spark',
+  'AWS',
+  'Cassandra',
+  'Next.js',
+  'Nest.js',
+
+  // ML Libraries
+  'PyTorch',
+  'TensorFlow',
+  'Pandas',
+  'NumPy',
+  'NLTK',
+  'Scikit-learn',
+  'Keras',
+  'Matplotlib',
+
+  // IDEs
+  'STS',
+  'Eclipse',
+  'Jupyter',
+  'VSCode',
+  'Atom',
+
+  // Databases
+  'MySQL',
+  'Postgres',
+  'Cassandra',
+  'Oracle DB',
+  'MongoDB'
+];
+
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
 // Couldn't find the required skills? Raise an issue on github at https://github.com/hhhrrrttt222111/developer-portfolio/issues/new
